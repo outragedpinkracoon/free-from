@@ -2,7 +2,7 @@
 
 These are all gluten AND milk free (but not egg free). Currently in no particular order.
 
-- [Schar Bread](https://www.sainsburys.co.uk/gol-ui/product/schar-gluten-free-wholesome-seeded-loaf-300g). I like the brown loaf best, but white is good too.
+- [Schar Bread](https://www.sainsburys.co.uk/gol-ui/product/schar-gluten-free-wholesome-seeded-loaf-300g) I like the brown loaf best, but white is good too.
 - [Rhythm 108 coconut bars](https://www.sainsburys.co.uk/gol-ui/product/rhythm-108-gluten-free-super-coconut-swiss-dark-chocolate-33g)
 - [Ristorante pizza *lactose free not dairy free*](https://www.sainsburys.co.uk/gol-ui/product/dr-oetker-ristorante-gluten-free-mozzarella-pizza-370g)
 - [Biofair pasta](https://biofair.co.uk/product-61-3.html)
