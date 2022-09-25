@@ -1,10 +1,9 @@
 # Free From Treat List (UK)
 
-These are all gluten AND milk free (but not egg free). Currently in no particular order.
+These are gluten AND milk free (but not egg free). Currently in no particular order.
 
 - [Schar Bread](https://www.sainsburys.co.uk/gol-ui/product/schar-gluten-free-wholesome-seeded-loaf-300g) I like the brown loaf best, but white is good too.
 - [Rhythm 108 coconut bars](https://www.sainsburys.co.uk/gol-ui/product/rhythm-108-gluten-free-super-coconut-swiss-dark-chocolate-33g)
-- [Ristorante pizza *lactose free not dairy free*](https://www.sainsburys.co.uk/gol-ui/product/dr-oetker-ristorante-gluten-free-mozzarella-pizza-370g)
 - [Biofair pasta](https://biofair.co.uk/product-61-3.html)
 - [Nairns crackers](https://www.sainsburys.co.uk/gol-ui/product/nairns-gluten-free-super-seeded-wholegrain-crackers-137g)
 - [Nairns oatcakes](https://www.sainsburys.co.uk/gol-ui/product/nairns-oatcakes--gluten-free-160g)
@@ -32,3 +31,6 @@ These are all gluten AND milk free (but not egg free). Currently in no particula
 - [Gluten free cornetto](https://www.sainsburys.co.uk/gol-ui/product/ProductDisplay)
 - M&S steak pie (no link available)
 - M&S vegetable spring rolls (no link available)
+
+## Lactose free, not dairy free
+- [Ristorante pizza *lactose free not dairy free*](https://www.sainsburys.co.uk/gol-ui/product/dr-oetker-ristorante-gluten-free-mozzarella-pizza-370g)
